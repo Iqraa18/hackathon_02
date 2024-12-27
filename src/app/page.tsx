@@ -17,7 +17,7 @@ export default function Home() {
   return (
 <>
 
- {/* <Main/>     */}
+
    <Hero1/> 
  <FoodItems/>
 
