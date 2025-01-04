@@ -1,7 +1,6 @@
 // /pages/main.tsx
 
 import Image from 'next/image';
-import Navbar from './navbar/navbar';
 
 export default function Main() {
   return (

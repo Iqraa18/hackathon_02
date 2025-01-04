@@ -11,7 +11,7 @@ export default function Hero1() {
                     {/* Text Content */}
                     <div className="w-1/2">
                         <h1 className="text-2xl text-yellow-500 font-serif font-semibold">
-                            <i>It's Quick And Amazing!</i>
+                            <i>It&apos;s Quick And Amazing!</i>
                         </h1>
                         <h1 className="text-6xl font-bold mb-4 text-white hover:text-yellow-500 mt-12 flex">
                             The Art of Speedy Food Quality
